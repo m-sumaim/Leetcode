@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/m-sumaim/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/m-sumaim/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/m-sumaim/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/m-sumaim/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/m-sumaim/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/m-sumaim/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -27,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/m-sumaim/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
