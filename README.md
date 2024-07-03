@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/m-sumaim/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/m-sumaim/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/m-sumaim/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,8 +31,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/m-sumaim/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/m-sumaim/Leetcode/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/m-sumaim/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
