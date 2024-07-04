@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/m-sumaim/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/m-sumaim/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/m-sumaim/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/m-sumaim/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/m-sumaim/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/m-sumaim/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/m-sumaim/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/m-sumaim/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -48,4 +50,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/m-sumaim/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m-sumaim/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m-sumaim/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m-sumaim/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
