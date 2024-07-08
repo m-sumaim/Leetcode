@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/m-sumaim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/m-sumaim/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/m-sumaim/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/m-sumaim/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0189-rotate-array](https://github.com/m-sumaim/Leetcode/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/m-sumaim/Leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/m-sumaim/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/m-sumaim/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/m-sumaim/Leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/m-sumaim/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/m-sumaim/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/m-sumaim/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
@@ -67,4 +70,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/m-sumaim/Leetcode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/m-sumaim/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/m-sumaim/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
