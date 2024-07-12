@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/m-sumaim/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/m-sumaim/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/m-sumaim/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1720-crawler-log-folder](https://github.com/m-sumaim/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/m-sumaim/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -86,4 +88,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/m-sumaim/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/m-sumaim/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
